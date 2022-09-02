@@ -2,7 +2,7 @@ import React from 'react'
 
 import Head from "next/head"
 
-import A from "../components/A";
+import A from "./A";
 import styles from "../styles/navbar.module.scss";
 
 export default function MainContainer({ children, keyword }) {

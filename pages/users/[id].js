@@ -1,7 +1,7 @@
 import { useRouter } from "next/router"
-import MainContainer from "../components/MainContainer";
+import MainContainer from "../../components/MainContainer";
 
-import styles from "../styles/user.module.scss";
+import styles from "../../styles/user.module.scss";
 
 
 export default function Detail({ user }) {

@@ -1,6 +1,3 @@
-# build output
 /.env
-.next
-
-# dependencies
-node_modules
+/node_modules
+/.next
